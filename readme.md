@@ -4,7 +4,12 @@ This is just a minimal setup for PHP developers to get started playing with HTMX
 
 ## Setup
 
-[Download a copy](https://codeload.github.com/svandragt/htmx-php-sandbox/zip/refs/heads/main) of this repo, extract it, then run `php -S localhost:5000 -t src` in it's directory.
+Checkout a copy of this repo, run the builtin webserver:
+
+```shell
+git clone https://github.com/svandragt/htmx-php-sandbox && cd htmx-php-sandbox && rm -rf .git
+php -S localhost:5000 -t src
+```
 
 Happy hacking!
 
