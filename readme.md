@@ -6,6 +6,10 @@ This is just a minimal setup for PHP developers to get started playing with HTMX
 * Enough styles to get something on screen.
 * HTMX example.
 
+Roadmap:
+* library functions.
+* Variety of examples to clarify use.
+
 ## Setup
 
 Checkout a copy of this repo, run the builtin webserver:
