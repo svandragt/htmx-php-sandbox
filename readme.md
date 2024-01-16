@@ -2,6 +2,10 @@
 
 This is just a minimal setup for PHP developers to get started playing with HTMX.
 
+* Basic HTML layout with libraries loaded.
+* Enough styles to get something on screen.
+* HTMX example.
+
 ## Setup
 
 Checkout a copy of this repo, run the builtin webserver:
